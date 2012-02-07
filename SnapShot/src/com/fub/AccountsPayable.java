@@ -15,7 +15,6 @@ public class AccountsPayable extends ImageGroup
 	private ResultSet cfmastSet;
 	private ResultSet apmastSet;
 	private ResultSet countSet;
-	
 	private Statement diimgStmt;
 	private Statement cfmastStmt; 
 	private Statement apmastStmt;
