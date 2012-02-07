@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.example.org/migration" xmlns:tns="http://www.example.org/migration" elementFormDefault="qualified">
+
+    <element name="DIOBJNO" type="string" nillable="false"></element>
+
+    <element name="DIOBJFUSR" type="string" nillable="false"></element>
+
+    <element name="DIOBJEFF" type="string" nillable="false"></element>
+
+    <element name="DIOBJDAT" type="string" nillable="false"></element>
+
+    <element name="DIDOC" type="string" nillable="false"></element>
+
+    <element name="DIAIDX01" type="string" nillable="false"></element>
+
+    <element name="DIAIDX01V" type="string" nillable="false"></element>
+
+    <element name="DIAIDX02V" type="string" nillable="false"></element>
+
+    <element name="DIAIDX03V" type="string" nillable="false"></element>
+
+    <element name="DIAIDX04V" type="string" nillable="false"></element>
+
+    <element name="CFSNME" type="string" nillable="false"></element>
+
+    <element name="CFSSNO" type="string" nillable="false"></element>
+</schema>
